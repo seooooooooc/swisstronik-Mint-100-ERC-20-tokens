@@ -1,4 +1,4 @@
-# Swisstronik Tesnet Techinal Task 1
+# Swisstronik Tesnet Technical Task 1
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
@@ -15,7 +15,7 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/hardhat-deploy-contract.git
+git clone https://github.com/seooooooooc/TASK-1
 ```
 
 ```
